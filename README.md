@@ -1,2 +1,2 @@
 # Catherine
-A talking cat that follows you around. You can talk to it if you want
+A talking cat that follows you around. You can talk to it if you want... its a 4-wheel robot chassis using an Arduino Nano as the main controller. It uses a DRV8833 motor driver to control four DC motors and an RPR-0521RS sensor for proximity and light detection. The robot is powered by a 2S LiPo battery for wireless operation. I made this project to learn how motor control, sensors, and embedded systems work together in real robotics. I also wanted to build a fully wireless robot that can move and react to its environment instead of just running on USB power.
